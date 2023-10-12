@@ -1,5 +1,6 @@
 # Snake Game
 ![Screenshot 2023-10-12 at 18 07 13](https://github.com/deffonotfari/snakeGame/assets/105233354/cc91225c-840f-4526-803b-96d3673009b2)
+
 This project is a classic Snake Game created as part of a final assignment for the Processing Java Bootcamp. The user will be able to control their snake, collect food, and grow while avoiding itself. The game features intuitive controls, contains colorful graphics, and a score-tracking system. 
 
 ## Features
